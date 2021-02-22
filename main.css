@@ -1,5 +1,6 @@
 body {
-    background-color: #fcf9ee;
+    background-color: #F4F7F5;
+    color: #222823;
     margin: 0 5%;
     font-family: 'Libre Franklin', sans-serif;
 }
@@ -26,6 +27,9 @@ body {
 @media (min-width: 1200px) { 
     p{
         font-size: 1.2rem;
+    }
+    .name p {
+      font-size: 3rem;
     }
  }
 
